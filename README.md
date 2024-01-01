@@ -94,4 +94,4 @@ Project Duration: September 24, 2023 - November 17, 2023
 
 &nbsp;  
 
-Project Link : [[https://github.com/Pictato/Pictato.git](https://github.com/Pictato/Pictato.git)](https://github.com/AdvantechPeterPet)https://github.com/AdvantechPeterPet
+Project Link : [https://github.com/AdvantechPeterPet/PeterPet]
